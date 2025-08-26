@@ -12,11 +12,15 @@ body{
 	align-items: center;
 }
 .logo{
-	margin: 50px 160px;
 	font-family: Inter, serif;
 	font-size: 40px;
 	font-weight: 700;
 }
+
+.logo{
+	margin: 10% 40%;
+}
+
 .notes{
 	justify-content: center;
 	gap: 20px;
