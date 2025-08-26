@@ -20,7 +20,7 @@ body{
 .notes{
 	justify-content: center;
 	gap: 20px;
-	margin-left: 35px;
+	margin-left: 5%;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -47,7 +47,7 @@ body{
 .note-content{
 	font-family: Raleway, serif;
 	font-weight: 200;
-	margin: 15px 15px 0 15px;
+	margin: 10% 15% 0 15%;
 	font-size: 18px;
 	width: calc(100% - 38px);
 	text-align: start;
@@ -55,7 +55,7 @@ body{
 	height: calc(200px - 56px - 30px);
 }
 .tags{
-	margin: 15px;
+	margin: 5%;
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
